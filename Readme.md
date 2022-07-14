@@ -284,7 +284,7 @@ This is the end of your first Machine Learning project !
 What’s next for you ?
 
 Here are the concepts and practices you need to study:
-*   Feature Engineering, it’s [the fundamental difference between the Machine Learning and the Deep Learning](https://www.inside-machinelearning.com/en/feature-engineering-what-deep-learning-has-to-offer-to-ml/) we explain it in this article
+*   Feature Engineering, it’s [the fundamental difference between the Machine Learning and the Deep Learning](https://www.inside-machinelearning.com/en/feature-engineering-what-deep-learning-has-to-offer-to-ml/) we explain it in [this article](https://www.inside-machinelearning.com/en/feature-engineering-what-deep-learning-has-to-offer-to-ml/)
 *   Fine Tuning, changing the parameters of your algorithms to find the optimal solution
 *   Countering overfitting, we talk about it [here !](https://www.inside-machinelearning.com/en/5-mistakes-machine-learning/)
 
